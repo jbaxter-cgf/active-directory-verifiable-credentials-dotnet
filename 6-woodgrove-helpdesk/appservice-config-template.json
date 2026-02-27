@@ -6,12 +6,12 @@
   },
   {
     "name": "AppSettings__CompanyLogo",
-    "value": "https://woodgroveemployee.azurewebsites.net/assets/images/banking/logo/logo.svg",
+    "value": "https://www.canaccordgenuity.com/4ad0ae/globalassets/kc-v2/portal/cg-logo-portal-1.svg",
     "slotSetting": false
   },
   {
     "name": "AppSettings__CompanyName",
-    "value": "Woodgrove",
+    "value": "CG Lab",
     "slotSetting": false
   },
   {
@@ -36,7 +36,7 @@
   },
   {
     "name": "VerifiedID__client_name",
-    "value": "Woodgrove Helpdesk",
+    "value": "CG Lab Helpdesk",
     "slotSetting": false
   },
   {
